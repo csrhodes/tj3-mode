@@ -17,7 +17,6 @@
 
 ;; Author: Christophe Rhodes <christophe@rhodes.io>
 ;; URL: https://github.com/csrhodes/tj3-mode
-;; Version: 0.1
 
 ;;; Commentary:
 
